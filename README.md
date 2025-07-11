@@ -1,4 +1,7 @@
 git config --global user.name "Your Name"
+
+
+
 git config --global user.email "you@example.com"
 
 
@@ -30,6 +33,7 @@ git commit -m "Your commit message"
 4. Add Remote & Push
 
 git remote add origin <repository-url>
+
 git push -u origin main   # or 'master' if your branch is named so
 
 
